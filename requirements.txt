@@ -1,0 +1,16 @@
+gradio
+xformers
+torch
+torchvision
+diffusers
+transformers
+huggingface-hub
+spaces
+numpy
+accelerate
+safetensors
+omegaconf
+peft
+httpx
+safetensors
+hf_xet
